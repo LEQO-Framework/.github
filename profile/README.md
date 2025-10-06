@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="../pictures/LEQO-logo.jpg" alt="LEQO logo" width="240">
+</p>
+
 ## Low-code Enriched Quantum Object - Framework
+
+LEQO is a extendable low-code platform for modeling quantum applications.
 
 <!--
 
